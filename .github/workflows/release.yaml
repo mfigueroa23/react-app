@@ -2,7 +2,7 @@ name: "Release Devsonic Project"
 on:
   push:
     branches:
-      - develop
+      - master
 jobs:
   
   build:
