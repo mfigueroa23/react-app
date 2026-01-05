@@ -1,4 +1,4 @@
-name: "Release Devsonic Project"
+name: "Release React App Project"
 on:
   push:
     branches:
